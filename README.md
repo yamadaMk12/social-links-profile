@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click](https://your-solution-url.com)
-- Live Site URL: [Click](https://your-live-site-url.com)
+- Solution URL: [Click](https://github.com/yamadaMk12/social-links-profile)
+- Live Site URL: [Click](https://yamadamk12.github.io/social-links-profile/)
 
 ## My process
 
